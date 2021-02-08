@@ -1,6 +1,6 @@
 {
   "name": "commajs-link",
-  "version": "1.0.19",
+  "version": "1.0.20",
   "description": "Commajs - The WYSIWYG framework -  link plugin",
   "main": "dist/commajs-link.min.js",
   "repository": {
